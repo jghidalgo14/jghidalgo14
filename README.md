@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # Juan Isidro González Hidalgo (Curriculum)
 Place: Recife - Pernambuco | Age: 32 years old.
+
 [github](https://github.com/jghidalgo14) | [Linkedin](https://www.linkedin.com/in/juan-isidro-gonz%C3%A1lez-hidalgo-a85003ba/) | [Lattes](http://lattes.cnpq.br/1699521484933349)
 
 ## Professional Resume
