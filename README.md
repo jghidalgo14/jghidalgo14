@@ -9,6 +9,8 @@
 jghidalgo14/jghidalgo14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![my](https://user-images.githubusercontent.com/19783102/125197044-928eb400-e232-11eb-93cc-44b70f76a0e1.JPG)
+
 # Juan Isidro González Hidalgo (Curriculum)
 Place: Recife - Pernambuco | Age: 32 years old.
 
