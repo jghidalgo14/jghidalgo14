@@ -42,4 +42,12 @@ software, and maintenance of technological supports in the IT area.
 - Computer Engineering, University of Granma ([UDG](https://www.facebook.com/Universidad.Granma/))
 (July 2012) - Completed
 
+## Languages
+### Spanish
+- I understand well, speak well, read well, write well.
+### English
+- I understand reasonably, speak a little,  read a fair amount, write a fair amount.
+### Portuguese
+- I understand well, speak well, read well, write well.
+
 
