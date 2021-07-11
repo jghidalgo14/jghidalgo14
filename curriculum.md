@@ -8,7 +8,7 @@
 jghidalgo14/jghidalgo14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-###### Juan Isidro González Hidalgo
+# Juan Isidro González Hidalgo
 - 👋 Hi, I’m Juan Isidro González Hidalgo (@jghidalgo14). I have a degree in computer engineering from the University of Granma(2012)
 and a master's degree in science from Computation from the Federal University of Pernambuco (2017).
 Ph.D. candidate in progress in Computer Science by the Federal University of Pernambuco.
