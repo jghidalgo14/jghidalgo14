@@ -58,4 +58,4 @@ Specialist B in Computer Science - August/2012 to May/2014. Network Administrato
 
 ## Publications
 - BARROS,ROBERTO SOUTO MAIOR DE;HIDALGO,JUAN ISIDRO GONZÁLEZ;CABRAL, DANILO RAFAEL DE LIMA.Wilcoxon Rank Sum Test Drift Detector.
-  NEUROCOMPUTING,v.275,p.1954-1963,2018. [External Link]{https://doi.org/10.1016/j.neucom.2017.10.051}
+  NEUROCOMPUTING,v.275,p.1954-1963,2018. [Link](https://doi.org/10.1016/j.neucom.2017.10.051)
