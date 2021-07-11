@@ -57,5 +57,11 @@ software, and maintenance of technological supports in the IT area.
 Specialist B in Computer Science - August/2012 to May/2014. Network Administrator, Information Technology Support Maintenance.
 
 ## Publications
-- [BARROS,ROBERTO SOUTO MAIOR DE;HIDALGO,JUAN ISIDRO GONZÁLEZ;CABRAL, DANILO RAFAEL DE LIMA.Wilcoxon Rank Sum Test Drift Detector.
+- [BARROS,ROBERTO SOUTO MAIOR DE; HIDALGO,JUAN ISIDRO GONZÁLEZ; CABRAL, DANILO RAFAEL DE LIMA.Wilcoxon Rank Sum Test Drift Detector.
   NEUROCOMPUTING,v.275,p.1954-1963,2018.](https://doi.org/10.1016/j.neucom.2017.10.051)
+- [HIDALGO,JUAN I. GONZÁLEZ; MACIEL, BRUNO I. F.; BARROS, ROBERTO S. M. Experimenting with prequential variations for data stream learning evaluation.
+  COMPUTATIONAL INTELLIGENCE, v.35, p.coin.12208,2019.](https://doi.org/10.1111/coin.12208)
+- [MARINO, LAURA M. P.; HIDALGO, JUAN I. G.; BARROS, ROBERTO S. M.; VASCONCELOS, GERMANO C. Improving Fast Adaptive Stacking of Ensembles.
+  In:2019 International Joint Conference on Neural Networks (IJCNN), 2019, Budapest.](https://doi.org/10.1109/IJCNN.2019.8852470)
+- [Hidalgo J.I.G., Mariño L.M.P., de Barros R.S.M. (2019) Cosine Similarity Drift Detector. In: Tetko I., Kůrková V., Karpov P., Theis F. (eds) Artificial Neural         Networks and Machine Learning – ICANN 2019: Text and Time Series. ICANN 2019. Lecture Notes in Computer Science, vol 11730. Springer, Cham](https://doi.org/10.1007/978-3-030-30490-4_53)
+
