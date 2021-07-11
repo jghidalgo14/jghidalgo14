@@ -53,6 +53,6 @@ software, and maintenance of technological supports in the IT area.
 ## Professional History
 ### Empresa de Informática y las Comunicaciones del MINAG, EICMA/CUBA
 - Network Administrator - May/2014 to June/2015.
-- - Regional Network Administrator with exclusive dedication. A company dedicated to providing Information Technology services to agricultural companies and third parties.
+ -- Regional Network Administrator with exclusive dedication. A company dedicated to providing Information Technology services to agricultural companies and third parties.
 
 
