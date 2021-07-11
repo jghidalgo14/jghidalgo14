@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 # Juan Isidro González Hidalgo (Curriculum)
 Place: Recife - Pernambuco | Age: 32 years old.
 
-## Professional Resume.
+## Professional Resume
 👋 Hi, I’m Juan Isidro González Hidalgo (@jghidalgo14). I have a degree in computer engineering from the University of Granma(2012)
 and a master's degree in science from Computation from the Federal University of Pernambuco (2017).
 Ph.D. candidate in progress in Computer Science by the Federal University of Pernambuco.
@@ -49,5 +49,10 @@ software, and maintenance of technological supports in the IT area.
 - I understand reasonably, speak a little,  read a fair amount, write a fair amount.
 ### Portuguese
 - I understand well, speak well, read well, write well.
+
+## Professional History
+### Empresa de Informática y las Comunicaciones del MINAG, EICMA/CUBA
+- Network Administrator - May/2014 to June/2015
+- Regional Network Administrator with exclusive dedication. A company dedicated to providing Information Technology services to agricultural companies and third parties.
 
 
