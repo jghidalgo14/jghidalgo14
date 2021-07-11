@@ -35,7 +35,7 @@ software, and maintenance of technological supports in the IT area.
 - Master in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (August 2017) - Completed.
 ### University graduate
-- Computer Engineering, University of Granma (UDG)
+- Computer Engineering, University of Granma ([UDG](https://www.facebook.com/Universidad.Granma/))
 (July 2012) - Completed
 
 
