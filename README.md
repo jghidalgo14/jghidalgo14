@@ -38,4 +38,4 @@ software, and maintenance of technological supports in the IT area.
 - Computer Engineering, University of Granma (UDG)
 (July 2012) - Completed
 
-[UFPE](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8479569A6&tokenCaptchar=03AGdBq27CI3SqnTRJKaLuD5Da5HdZblRD0zdFtrM9kkUhLNyLtt-MNGL48RxYe1XjBPyT6eDWpAu_6sAdeOR_idHzyYBJwppGc3LyGov6uzSZnto8fuBsYusFnnbmk9uuWEBj6d5Y5Bj-id8taQRHD1DlF2gOBhSHVib6Rx3TpIf9zaMMMsAhSZ7k6am34BR7QydrvoPB_hEHqLCyyXXmwRZCevLpjuSfll9wazbBYUiAayuECjrd7m4EkYFUhqF9Ewv85MyquoQxHS6kOd2W8YvHCTxHMwvcfiBBvkUvkBjcxCz5J55Q-V7m_LSoBoEmDfEc8nS89wuGaNx7RQV15GXvHAKzC7ltWIqFUr2W-1Qyll5bzHth7x6HrSSmjXVHiZlQuNtEIwPJMF-BcktfbEQIKCt9jqYL0OMWNBJAerntmjTy7PoKhKVFMkzAB4OamEmVI-BdO068IIEYKaXl0D-b_YD3CqOvTw)
+[CIn-UFPE](https://portal.cin.ufpe.br/)
