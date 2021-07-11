@@ -29,13 +29,13 @@ software, and maintenance of technological supports in the IT area.
 ### Education
 - Postgraduate at Master's level.
 ### Postgraduate - Doctorate
-- Ongoing Ph.D. in Computer Science, UFPE
+- Ongoing Ph.D. in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (November 2021) - Attending.
 ### Postgraduate - Master
-- Master in Computer Science, UFPE
+- Master in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (August 2017) - Completed.
 ### University graduate
 - Computer Engineering, University of Granma (UDG)
 (July 2012) - Completed
 
-[CIn-UFPE](https://portal.cin.ufpe.br/)
+
