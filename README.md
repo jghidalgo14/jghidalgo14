@@ -57,5 +57,5 @@ software, and maintenance of technological supports in the IT area.
 Specialist B in Computer Science - August/2012 to May/2014. Network Administrator, Information Technology Support Maintenance.
 
 ## Publications
-- BARROS,ROBERTO SOUTO MAIOR DE;HIDALGO,JUAN ISIDRO GONZÁLEZ;CABRAL, DANILO RAFAEL DE LIMA.Wilcoxon Rank Sum Test Drift Detector.
-  NEUROCOMPUTING,v.275,p.1954-1963,2018. [Link](https://doi.org/10.1016/j.neucom.2017.10.051)
+- [BARROS,ROBERTO SOUTO MAIOR DE;HIDALGO,JUAN ISIDRO GONZÁLEZ;CABRAL, DANILO RAFAEL DE LIMA.Wilcoxon Rank Sum Test Drift Detector.
+  NEUROCOMPUTING,v.275,p.1954-1963,2018.](https://doi.org/10.1016/j.neucom.2017.10.051)
