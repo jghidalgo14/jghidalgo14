@@ -1,15 +1,16 @@
+<!---
 - 👋 Hi, I’m @jghidalgo14
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....
-
+--->
 <!---
 jghidalgo14/jghidalgo14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Juan Isidro González Hidalgo (Curriculum)
-Local: Recife - Pernambuco | Age: 32 years old.
+Place: Recife - Pernambuco | Age: 32 years old.
 - 👋 Hi, I’m Juan Isidro González Hidalgo (@jghidalgo14). I have a degree in computer engineering from the University of Granma(2012)
 and a master's degree in science from Computation from the Federal University of Pernambuco (2017).
 Ph.D. candidate in progress in Computer Science by the Federal University of Pernambuco.
