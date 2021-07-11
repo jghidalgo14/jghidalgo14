@@ -24,3 +24,16 @@ software, and maintenance of technological supports in the IT area.
 - In the free open source Joomla web content management system, developed in PHP and with MySQL database. 
 - In the area of Machine Learning and Artificial Intelligence developing applications experimented in data stream environments with concept drifts, implemented in Java code in the MOA data mining framework. 
 - Descriptive analysis of statistical models based on the implementation of R and Python programming languages.
+
+## Formation
+### Education
+- Postgraduate at Master's level.
+### Postgraduate - Doctorate
+- Ongoing Ph.D. in Computer Science, UFPE
+(November 2021) - Attending.
+### Postgraduate - Master
+- Master in Computer Science, UFPE
+(August 2017) - Completed.
+### University graduate
+- Computer Engineering, University of Granma (UDG)
+(July 2012) - Completed
