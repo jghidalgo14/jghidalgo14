@@ -9,7 +9,8 @@
 jghidalgo14/jghidalgo14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![my - Copia](https://user-images.githubusercontent.com/19783102/125197150-f44f1e00-e232-11eb-8dac-46de6fa0391a.png)
+![my - Copia](https://user-images.githubusercontent.com/19783102/125197224-295b7080-e233-11eb-8d6f-8d1f74bb5a6e.png)
+
 
 
 # Juan Isidro González Hidalgo (Curriculum)
