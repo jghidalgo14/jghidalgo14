@@ -21,7 +21,7 @@ Place: Recife - Pernambuco | Age: 32 years old.
 ## Professional Resume
 👋 Hi, I’m Juan Isidro González Hidalgo (@jghidalgo14). I have a degree in computer engineering from the University of Granma(2012)
 and a master's degree in science from Computation from the Federal University of Pernambuco (2017).
-Ph.D. in Computer Science by the Federal University of Pernambuco.
+Ph.D. in Computer Science by the Federal University of Pernambuco (2022).
 I have experience in the field of Science of Computing, with an emphasis on Theory of Computation and high knowledge of hardware,
 software, and maintenance of technological supports in the IT area.
 
