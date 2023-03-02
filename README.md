@@ -33,7 +33,7 @@ software, and maintenance of technological supports in the IT area.
 
 ## Formation
 ### Education
-- Postgraduate at Master's level.
+- Postgraduate at Ph.D. level.
 ### Postgraduate - Doctorate
 - Ph.D. in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (September 2022) - Completed.
