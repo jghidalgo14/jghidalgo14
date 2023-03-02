@@ -36,7 +36,7 @@ software, and maintenance of technological supports in the IT area.
 - Postgraduate at Master's level.
 ### Postgraduate - Doctorate
 - Ph.D. in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
-(November 2021) - Attending.
+(September 2022) - Completed.
 ### Postgraduate - Master
 - Master in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (August 2017) - Completed.
