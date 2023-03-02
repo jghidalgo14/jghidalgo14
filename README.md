@@ -27,9 +27,12 @@ software, and maintenance of technological supports in the IT area.
 
 ### My experiences as a developer: 
 - Development of web applications based on the Unified Process methodology (RUP) for the visual modeling of the Unified Modeling Language (UML), programming with the PHP language with the support of a MySQL database, as a web server the Apache and as an application development tool CodeIgniter framework. 
+- Knowledge of PHP, Java, R, Python, JavaScript, MySQL, Node Js, Joomla, CodeIgniter, and Angular.
+- Knowledge of agile methodologies, databases, programming logic, and complex algorithms.
 - In the free open source Joomla web content management system, developed in PHP and with MySQL database. 
 - In the area of Machine Learning and Artificial Intelligence developing applications experimented in data stream environments with concept drifts, implemented in Java code in the MOA data mining framework. 
-- Descriptive analysis of statistical models based on the implementation of R and Python programming languages.
+- Experience in descriptive analysis of mathematical and statistical models based on the implementation of R and Python programming languages.
+
 
 ## Formation
 ### Education
