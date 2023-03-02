@@ -21,7 +21,7 @@ Place: Recife - Pernambuco | Age: 32 years old.
 ## Professional Resume
 👋 Hi, I’m Juan Isidro González Hidalgo (@jghidalgo14). I have a degree in computer engineering from the University of Granma(2012)
 and a master's degree in science from Computation from the Federal University of Pernambuco (2017).
-Ph.D. candidate in progress in Computer Science by the Federal University of Pernambuco.
+Ph.D. in Computer Science by the Federal University of Pernambuco.
 I have experience in the field of Science of Computing, with an emphasis on Theory of Computation and high knowledge of hardware,
 software, and maintenance of technological supports in the IT area.
 
@@ -35,7 +35,7 @@ software, and maintenance of technological supports in the IT area.
 ### Education
 - Postgraduate at Master's level.
 ### Postgraduate - Doctorate
-- Ongoing Ph.D. in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
+- Ph.D. in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
 (November 2021) - Attending.
 ### Postgraduate - Master
 - Master in Computer Science, [CIn-UFPE](https://portal.cin.ufpe.br/)
@@ -53,6 +53,8 @@ software, and maintenance of technological supports in the IT area.
 - I understand well, speak well, read well, write well.
 
 ## Professional History
+### Foco Aluguel de Carros. Recife/Pernambuco, Brazil
+- Systems Developer - August/2021 to present. 
 ### Empresa de Informática y las Comunicaciones del MINAG, EICMA/CUBA
 - Network Administrator - May/2014 to June/2015. Regional Network Administrator with exclusive dedication. A company dedicated to providing Information Technology services to agricultural companies and third parties.
 ### Central Azucarero Grito de Yara, AZCUBA, CUBA
@@ -66,4 +68,7 @@ Specialist B in Computer Science - August/2012 to May/2014. Network Administrato
 - [MARINO, LAURA M. P.; HIDALGO, JUAN I. G.; BARROS, ROBERTO S. M.; VASCONCELOS, GERMANO C. Improving Fast Adaptive Stacking of Ensembles.
   In:2019 International Joint Conference on Neural Networks (IJCNN), 2019, Budapest.](https://doi.org/10.1109/IJCNN.2019.8852470)
 - [Hidalgo J.I.G., Mariño L.M.P., de Barros R.S.M. (2019) Cosine Similarity Drift Detector. In: Tetko I., Kůrková V., Karpov P., Theis F. (eds) Artificial Neural         Networks and Machine Learning – ICANN 2019: Text and Time Series. ICANN 2019. Lecture Notes in Computer Science, vol 11730. Springer, Cham](https://doi.org/10.1007/978-3-030-30490-4_53)
+- [Hidalgo, Juan I. G. and Santos, Silas G. T. C. and Barros, Roberto S. M. 2021. Dynamically Adjusting Diversity in Ensembles for the Classification of Data Streams with Concept Drift. ACM Transaction on Knowledge Discovery from Data. 16, 2, Article 31 (July 2021), 20 pages.](https://dl.acm.org/doi/10.1145/3466616)
+- [B. I. F. Maciel, J. I. G. Hidalgo and R. S. M. de Barros, "An Ultimately Simple Concept Drift Detector for Data Streams," 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Melbourne, Australia, 2021, pp. 625-630, doi: 10.1109/SMC52423.2021.9659127.](https://ieeexplore.ieee.org/document/9659127)
+- [Hidalgo, J.I.G., Santos, S.G.T.C. & de Barros, R.S.M. Paired k-NN learners with dynamically adjusted number of neighbors for classification of drifting data streams. Knowl Inf Syst (2022).](https://doi.org/10.1007/s10115-022-01817-y)
 
