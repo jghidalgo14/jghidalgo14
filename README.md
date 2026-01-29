@@ -6,7 +6,7 @@ This is the GitHub profile README.
 
 # Juan Isidro González Hidalgo
 
-💼 **IT Coordinator & Tech Lead at DUO Technology**  
+💼 **IT Coordinator at DUO Technology**  
 🎓 **Ph.D. in Computer Science**  
 📍 Recife, Pernambuco, Brazil  
 
@@ -16,7 +16,7 @@ This is the GitHub profile README.
 
 ## 👋 About Me
 
-IT Coordinator and Technical Leader with a strong background in software architecture, system integrations, and agile team coordination. I operate at both strategic and hands-on levels, connecting business needs with technical solutions while ensuring delivery quality, scalability, and reliability.
+IT Coordinator with a strong background in software architecture, system integrations, and agile team coordination. I operate at both strategic and hands-on levels, connecting business needs with technical solutions while ensuring delivery quality, scalability, and reliability.
 
 I have solid experience across **web and mobile ecosystems**, microservices-based architectures, and third-party integrations. I am actively involved in technical decision-making, incident analysis, documentation standardization, and continuous process improvement.
 
